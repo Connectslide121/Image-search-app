@@ -2,4 +2,5 @@
 
 # Image Search App
 
-An image search app that uses Unsplash API. Try it [here](https://connectslide121.github.io/Image-search-app/)
+An image search app that uses Unsplash API. 
+Try it [here](https://connectslide121.github.io/Image-search-app/)
